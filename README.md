@@ -1,4 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=Exploring-the-Hidden-Web&color=blueviolet" alt="Profile Views">
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-3584-blueviolet" alt="Profile Views">
+</p>
 
 <!-- Header -->
 <p align="center">
