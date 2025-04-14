@@ -1,6 +1,6 @@
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-3584-blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-6784-blueviolet" alt="Profile Views">
 </p>
 
 <!-- Header -->
